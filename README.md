@@ -11,7 +11,7 @@
  -  }
  - }
 
-   #Project Distribution
+# Project Distribution
    - Frontend Dev #1 - Asanali
    - Frontend Dev #2 - Nurkhanym
    - Backend Dev - Damir
